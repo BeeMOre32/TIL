@@ -10,13 +10,15 @@ head 와 body 부분으로 나뉘며 head는 사용자에게 보여지지는 않
 body는 우리가 눈으로 볼 수 있는 다양한 그래픽적인 요소들 즉 페이지의 전체적인 구성 하고 있다. 위의 설명을 사진으로 표현하자면 다음과 같다.
 
 ![img.png](https://3.bp.blogspot.com/-sgm6BBz6KbM/VuarmPKRJ1I/AAAAAAAAG4Q/5GDCRhO09IgiCE2DQXhA0OVaxlylGWvvw/s400/html-structure.png)
+
 파란색의 부분이 head 부분이며 노란색은 페이지 전체를 구성하는 body 부분이다! 그렇다면 어떤 것으로 head 와 body는 어떤 것을 포함 할 수 있을까?
 
 ### html head \*NOT HEADER
 
 head는 페이지의 유저들에게 보이지 않는 데이터 페이지 타이틀과 검색시 노출되는 데이터, 페이지의 대표격인 아이콘 등등 다양한 정보를 포함 할 수 있다.
 
-> ![img_1.png](../img/2215html-structure.png)
+> ![img.png](../img/2215html-structure3.png)
+>
 > 위의 설명에서의 타이틀과 아이콘.
 
 그리고 약간은 특별하게 작업을 하고 있는 Css 와 Javascript 파일을 불러와서 적용시켜서 웹페이지를 더욱더 인터렉티브하게 더욱 더 예쁘게 만들어 줄 수도 있다!
@@ -38,3 +40,5 @@ body 는 유저들에게 직접 보여지는 페이지의 전반적인 내용을
 - `<footer></footer>` 웹 페이지의 가장 밑에 있는 부분이며 여기에는 보통 연락 주소 개발진 등등 다양한 정보들을 표시하는 곳이다.
 
 이렇게 html 태그를 일일이 나열 하는 것은 정말 시간낭비이기 때문에, 내가 원하는 것을 직접 찾아서 혹은 다른 사이트 들의 구성을 보면서 어떤 태그들을 사용했는지를 파악 하는 것이 중요하다. 필요하다면 구글링도 할것!
+
+https://developer.mozilla.org/ko/docs/Web/HTML/Reference
