@@ -22,4 +22,4 @@
  바로 위의 이유가 모든 프로그래머들이 git을 사랑에 빠질 수 밖에 없는 이유다.
 
 위의 예시의 간단한 사진
-![img.png](/img/2214git-branch-cowork.png)
+![img.png](/img/221214git-branch-cowork.png)
