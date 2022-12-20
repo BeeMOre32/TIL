@@ -2,7 +2,7 @@
 
 css는 Cascading Style Sheets 의 약어로 html의 다양한 요소들을 꾸미고 또 최적화를 하는 것을 도와주는 언어다. css를 적용 하는 것이 필수 인 이유는 다음과 같다.
 정말 못생겼다. 정말 못생기기도 했고 가독성이 상당히 떨어져서 어디에 어떤 요소가 있는 지 조차도 알아볼수 없다. 그렇기 때문에 시인성을 위해서라도 css를 적용하는 것은 필수다.
-> ![img.png](../img/221219-css-grammar-example.png)
+> ![img.png](../examples/221219-css-grammar-example.png)
 > 웹사이트 DuckDuckGo를 css적용을 해지한 모습이다. <br/>
 > 출처: https://css-tricks.com/that-time-i-tried-browsing-the-web-without-css/
 
@@ -22,7 +22,7 @@ ElementsName{Attribute: value;}
 >background-color: black;
 > }
 >```
->![img.png](../img/221219-css-grammar-example2.png)
+>![img.png](../examples/221219-css-grammar-example2.png)
 
 ## 4 ways to apply css
 

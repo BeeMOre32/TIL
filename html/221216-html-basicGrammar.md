@@ -70,7 +70,7 @@ html는 다양한 태그들로 구성 되어 있고 어제 배웠던 html의 기
   </div>
 </body>
 ```
-> ![2216-html-basicGrammar-example.png](../img/221216-html-basicGrammar-example.png)
+> ![2216-html-basicGrammar-example.png](../examples/221216-html-basicGrammar-example.png)
 위의 코드를 간략하게 그림으로 표현
 
 이 부모 요소와 자식요소의 중요성은 후에 다루게 될 css에서 조금더 자세하게 다루겠다.

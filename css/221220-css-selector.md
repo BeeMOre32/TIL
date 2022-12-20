@@ -157,7 +157,7 @@ input:focus{
     }
 </style>
 ```
-![img.png](../img/221220-css-selector-example0.png)
+![img.png](../examples/221220-css-selector-example0.png)
 - `.class::after{ content: "가상 요소"; }` : 선택자의 뒤에 가상 요소를 인라인형태로 삽입해주는 선택자이다. 이 역시 아래의 예시를 보자.
 ```html
 <body><div>미리 준비된 내용</div></body>
@@ -167,7 +167,7 @@ input:focus{
     }
 </style>
 ```
-![img_1.png](../img/221220-css-selector-example1.png)
+![img_1.png](../examples/221220-css-selector-example1.png)
 ## 속성 선택자
 
 속성 선택자는 선택자의 일종으로, 선택된 요소의 속성을 기준으로 선택하는 선택자이다. 속성 선택자는 선택자 앞에 "[]"을 붙여 사용할 수 있다. 아래의 예시를 보면 이해 할 수 있다.
@@ -238,7 +238,7 @@ body{
     color: white;
 }body
 ```
-![img_2.png](../img/221220-css-selector-example2.png)
+![img_2.png](../examples/221220-css-selector-example2.png)
 
 위의 코드를 적용을 시켰을 때 실제로 적용되는 스타일은 `!important` 가 적용되어있는 `color: red !important;` 가 우선적으로 적용되며 그 다음으로는 인라인 선택자, 그 뒤 차례대로 id class div * 순으로 적용이 된다.
 
